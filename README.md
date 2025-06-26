@@ -3,8 +3,8 @@ Desenvolvimento de uma homepage de portal de notícias sobre tecnologia, focado 
 
  <a href="https://leonardobruchez.github.io/Portal-de-noticias/">🔗 Acessar Projeto</a>
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://leonardobruchez.github.io/Portal-de-noticias/" target_blank>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://leonardobruchez.github.io/Portal-de-noticias/" target="_blank">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 <br>
