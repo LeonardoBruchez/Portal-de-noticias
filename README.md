@@ -1,7 +1,16 @@
 # Portal-de-noticias
-Desenvolvimento de uma homepage de portal de notícias sobre tecnologia, focado em layout com CSS Grid. Projeto realizado durante a formação Full Stack da Rocketseat.
+Desenvolvimento de uma homepage de portal de notícias sobre tecnologia, focado em layout com CSS Grid. Projeto realizado em aula durante a formação Full Stack da Rocketseat.
 
 <br>
+<a href="https://www.figma.com/community/file/1362166020452569562" target="_blank">
+  <p align="center">
+    <img 
+      alt="Projeto em aula" 
+      src="./assets/images/Capturar.PNG" 
+      width="100%">
+  </p>
+</a>
+
 
 ## 🚀 Tecnologias
 
