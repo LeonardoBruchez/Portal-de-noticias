@@ -9,7 +9,7 @@ Desenvolvimento de uma homepage de portal de notícias sobre tecnologia, focado 
     <img 
       alt="Projeto em aula" 
       src="assets/Portal de notícias.png" 
-      width="100%">
+      width="60%">
   </p>
 </a>
 
