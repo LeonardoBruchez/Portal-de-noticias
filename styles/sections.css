@@ -3,8 +3,8 @@ section header {
   padding-block: 12px 24px;
   font: var(--text-span);
   a {
-    justify-self: end;
-    align-items: center;
+    justify-self:end;
+    align-items:center;
     gap: 8px;
 
     span {
@@ -64,7 +64,6 @@ section header {
   img {
     height: 160px;
   }
-
   figure {
     position: relative;
 
