@@ -11,10 +11,16 @@ section header {
       background-image: url(../assets/icons/ArrowRight.svg);
       width: 16px;
       height: 16px;
+      background-repeat: no-repeat;
+      display: inline-block;
     }
 
     &:hover span{
       background-image: url(../assets/icons/ArrowRight-hover.svg);
+      position: relative;
+      bottom: 1px;
+      right: 1px;
+      
     }
   }
 }
