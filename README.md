@@ -6,7 +6,7 @@ Desenvolvimento de uma homepage de portal de notícias sobre tecnologia, focado 
   <p align="center">
     <img 
       alt="Projeto em aula" 
-      src="./assets/images/Portal de notícias.png" 
+      src="assets/Portal de notícias.png" 
       width="100%">
   </p>
 </a>
@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e GitHub
 - Google Fonts
+- Figma
 
 ## 📚 Aprendizado
 
